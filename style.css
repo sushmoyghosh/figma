@@ -523,7 +523,7 @@ body{
     }
     .main.active .toggle{
         position: fixed;
-        right: 0;
+        right: 300px;
         left: initial;
         color: #FF7594;
     }
